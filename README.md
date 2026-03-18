@@ -33,7 +33,7 @@
 
 - 🧠 **Mutual Knowledge Estimation (MKE)**: Precisely quantifies sample cleanliness by computing the *Transition Rate* of mutual knowledge between composed features and target images, effectively identifying clean samples that align with modification semantics.
 - ⏳ **Dual-consistency Progressive Learning (DPL)**: Introduces a collaborative mechanism between historical and current models to simulate human habit formation (retaining good habits and calibrating bad ones), enabling robust learning against noisy data interference.
-- 🛡️ **Highly Robust to NTC**: Maintains State-of-the-Art (SOTA) retrieval performance under various Noise Triplet Correspondence (NTC) settings with different noise ratios ($0\%, 20\%, 50\%, 80\%$).
+- 🛡️ **Highly Robust to NTC**: Maintains State-of-the-Art (SOTA) retrieval performance under various Noise Triplet Correspondence (NTC) settings with different noise ratios (0%, 20%, 50%, 80%$).
 
 ---
 
