@@ -303,5 +303,5 @@ If you find our work or this code useful in your research, please consider leavi
 ## 🫡 Support & Contributing
 
 We welcome all forms of contributions! If you have any questions, ideas, or find a bug, please feel free to:
-- Open an [Issue](https://github.com/YOUR_GITHUB_USERNAME/HABIT/issues) for discussions or bug reports.
-- Submit a [Pull Request](https://github.com/YOUR_GITHUB_USERNAME/HABIT/pulls) to improve the codebase.
+- Open an [Issue](https://github.com/Lee-zixu/HABIT/issues) for discussions or bug reports.
+- Submit a [Pull Request](https://github.com/Lee-zixu/HABIT/pulls) to improve the codebase.
