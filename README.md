@@ -11,7 +11,7 @@
     <a href="https://lee-zixu.github.io"><img src="https://img.shields.io/badge/Author Page-blue.svg" alt="Author Page"></a>
     <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>
     <img src="https://img.shields.io/badge/python-≥3.8-blue?style=flat-square" alt="Python">
-    <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/Lee-zixu/HABIT?style=social"></a>
+    <a href="https://github.com/"><img alt='stars' src="https://img.shields.io/github/stars/lee-zixu/HABIT?style=social"></a>
     <!-- <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"> -->
   </p>
 
