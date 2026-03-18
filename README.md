@@ -47,7 +47,7 @@
 
 ### CIR Task Performance
 
-> 💡 <span style="color:#2980b9;">**Note for Fully-Supervised CIR Benchmarking:**</span> 
+> 💡 <span style="color:#2980b9;">**Note for Fully-Supervised CIR Benchmarking:**</span> <br>
 > 🎯 The **0% noise** setting in the table below is equivalent to the **traditional fully-supervised CIR** paradigm. We highlight this `0%` block to facilitate direct and fair comparisons for researchers working on conventional supervised methods.
 
 
@@ -81,9 +81,10 @@ are highlighted in bold and underlined, respectively.</caption>
   - [Training under Noisy Settings](#1-training-under-noisy-settings)
   - [Testing](#2-testing)
 - [Project Structure](#-project-structure)
-- [Citation](#-citation)
 - [Acknowledgement](#-acknowledgement)
 - [Contact](#️-contact)
+- [Citation](#️-citation)
+- [Support & Contributing](#-support--contributing)
 
 ---
 
