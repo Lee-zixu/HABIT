@@ -69,7 +69,7 @@ bold, while the second-best result is underlined.</caption>
 
 
 #### CIRR：
-<caption><strong>Table 1.</strong> Performance comparison on the CIRR test set in terms of R@K (%) and Rsub@K (%). The best and second-best results
+<caption><strong>Table 2.</strong> Performance comparison on the CIRR test set in terms of R@K (%) and Rsub@K (%). The best and second-best results
 are highlighted in bold and underlined, respectively.</caption>
 
 ![](./assets/results-cirr.png)
