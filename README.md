@@ -307,8 +307,8 @@ For any questions, issues, or feedback, please open an [issue](https://github.co
         <a href="https://dl.acm.org/doi/10.1145/3746027.3755445" target="_blank">Paper</a>
       </span>
     </td>
-    </tr>
-  <tr style="border:none;">
+    <!-- </tr>
+  <tr style="border:none;"> -->
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/offset-logo.png" alt="OFFSET" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>OFFSET (ACM MM'25)</b><br>
