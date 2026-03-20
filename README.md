@@ -7,8 +7,8 @@
   <p>
       <a href="https://aaai.org/Conferences/AAAI-26/"><img src="https://img.shields.io/badge/AAAI-2026-blue.svg?style=flat-square" alt="AAAI 2026"></a>
       <a href="https://arxiv.org/abs/coming soon"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
-      <a href="coming soon"><img alt='Paper' src="https://img.shields.io/badge/Paper-Coming.Soon-green.svg"></a>
-    <a href=""><img alt='page' src="https://img.shields.io/badge/Website-orange"></a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608"><img alt='Paper' src="https://img.shields.io/badge/Paper-green.svg"></a>
+    <a href="https://lee-zixu.github.io/HABIT.github.io/"><img alt='page' src="https://img.shields.io/badge/Website-orange"></a>
     <a href="https://lee-zixu.github.io"><img src="https://img.shields.io/badge/Author Page-blue.svg" alt="Author Page"></a>
     <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>
     <img src="https://img.shields.io/badge/python-≥3.8-blue?style=flat-square" alt="Python">
@@ -24,7 +24,7 @@
 
 ## 📌 Introduction
 
-**HABIT** (cHrono-synergiA roBust progressIve learning framework for composed image reTrieval) is our proposed robust learning framework for Composed Image Retrieval, accepted by AAAI 2026. Based on an in-depth analysis of the "Noise Triplet Correspondence (NTC)" problem in real-world retrieval scenarios, HABIT effectively addresses the shortcomings of existing methods in precisely estimating composed semantic discrepancies and progressively adapting to modification discrepancies.
+**HABIT** (cHrono-synergiA roBust progressIve learning framework for composed image reTrieval) is our proposed robust learning framework for Composed Image Retrieval, accepted by AAAI 2026. Based on an in-depth analysis of the "Noisy Triplet Correspondence (NTC)" problem in real-world retrieval scenarios, HABIT effectively addresses the shortcomings of existing methods in precisely estimating composed semantic discrepancies and progressively adapting to modification discrepancies.
 
 [⬆ Back to top](#top)
 
