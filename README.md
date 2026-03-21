@@ -29,6 +29,7 @@
 [⬆ Back to top](#top)
 
 ## 📢 News
+* **[2026-03-20]** 🚀 Official paper is released at [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/37608).
 - **[2026-03-18]** 🚀 Released all codes for HABIT.
 - **[2025-11-08]** 🔥 Our paper *"HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval"* has been accepted by **AAAI 2026**!
 
